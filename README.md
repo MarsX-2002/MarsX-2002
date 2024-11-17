@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Mikey
+# 👋 Hi, I'm Mars
 
 <div align="center">
 
-🎮 Welcome to Mars' Tech Adventure! 🎮
-┌────────────────────────────┐
-│    🤖 Choose Your Path     │
-│                           │
-│   [1] AI Projects         │
-│   [2] Vision Systems      │
-│   [3] LLM Research        │
-│                           │
-│   Press ⭐ to Start!      │
-└────────────────────────────┘
+```ascii
+╔══════════════════════════════╗
+║     🎮 Tech Adventure 🎮     ║
+║                              ║
+║    [1] 🤖 AI Projects       ║
+║    [2] 🔬 Vision Systems    ║
+║    [3] 🧠 LLM Research      ║
+║                              ║
+║      Press ⭐ to Start!      ║
+╚══════════════════════════════╝
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/MarsX-2002/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/MarsX-2002/count.svg)](https://github.com/MarsX-2002)
 
 </div>
 
@@ -62,13 +62,14 @@ Sophisticated computer vision system combining multiple AI models for real-time 
 
 <div align="center">
 
-```
-Level Progress:
-█████████░░ 90%
-XP: 1337/1500
+```ascii
+╔══ Level Progress ══╗
+║ ██████████░ 90%  ║
+║ XP: 1337/1500    ║
+╚══════════════════╝
 ```
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsX-2002&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsX-2002&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarsX-2002&theme=radical)](https://git.io/streak-stats)
 
@@ -78,20 +79,21 @@ XP: 1337/1500
 <details>
 <summary>Click to Play!</summary>
 
-```
-🤖 AI Quest - Text Adventure 🤖
-===============================
-You are an AI researcher in 2024...
-
-[1] 🧪 Research new AI models
-[2] 🌐 Deploy to production
-[3] 📚 Study documentation
-
-Reply in issues to play!
-===============================
-Current Stats:
-XP: 156 | Level: 7
-Achievements: 3/10
+```ascii
+╔═══════════════════════════════════╗
+║    🤖 AI Quest - Text Adventure   ║
+╠═══════════════════════════════════╣
+║  You are an AI researcher in 2024 ║
+║                                   ║
+║  [1] 🧪 Research new AI models    ║
+║  [2] 🌐 Deploy to production      ║
+║  [3] 📚 Study documentation       ║
+║                                   ║
+║  Reply in issues to play!         ║
+╠═══════════════════════════════════╣
+║  XP: 156  |  Level: 7            ║
+║  Achievements: 3/10               ║
+╚═══════════════════════════════════╝
 ```
 
 </details>
@@ -101,14 +103,13 @@ Achievements: 3/10
 
 <div align="center">
 
-```
-Thanks for visiting!
-     ___
-    /   \
-   /  ^  \
-  /  \_/  \
- /         \
-/_____^_____\
+```ascii
+     /\
+    /  \
+   / 🚀 \
+  /      \
+ /   AI   \
+/──────────\
 ```
 
 </div>
