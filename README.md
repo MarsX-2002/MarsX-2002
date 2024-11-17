@@ -80,21 +80,52 @@ Sophisticated computer vision system combining multiple AI models for real-time 
 <summary>Click to Play!</summary>
 
 ```ascii
-╔═══════════════════════════════════╗
-║    🤖 AI Quest - Text Adventure   ║
-╠═══════════════════════════════════╣
-║  You are an AI researcher in 2024 ║
-║                                   ║
-║  [1] 🧪 Research new AI models    ║
-║  [2] 🌐 Deploy to production      ║
-║  [3] 📚 Study documentation       ║
-║                                   ║
-║  Reply in issues to play!         ║
-╠═══════════════════════════════════╣
-║  XP: 156  |  Level: 7            ║
-║  Achievements: 3/10               ║
-╚═══════════════════════════════════╝
+╔═══════════════════════════════════════════════╗
+║           🤖 AI Quest - Text Adventure        ║
+╠═══════════════════════════════════════════════╣
+║  You are an AI researcher in Silicon Valley.  ║
+║  Your mission: Advance AI technology while    ║
+║  maintaining ethical guidelines.              ║
+║                                              ║
+║  HOW TO PLAY:                                ║
+║  1. Click [New Issue] on this repository     ║
+║  2. Title: "AI Quest: [Your Choice]"         ║
+║  3. Choose your action in the comment:       ║
+║                                              ║
+║     [1] 🧪 Research new AI models            ║
+║         Risk: Medium | Reward: High          ║
+║                                              ║
+║     [2] 🌐 Deploy to production              ║
+║         Risk: High | Reward: Very High       ║
+║                                              ║
+║     [3] 📚 Study documentation               ║
+║         Risk: Low | Reward: Medium           ║
+║                                              ║
+║  Each choice affects your:                   ║
+║  - XP (Experience Points)                    ║
+║  - Research Progress                         ║
+║  - AI Ethics Rating                          ║
+╠═══════════════════════════════════════════════╣
+║  Current Stats:                              ║
+║  🎮 Level: 7  |  ⭐ XP: 156/200              ║
+║  🏆 Achievements: 3/10                       ║
+║  📊 Research Progress: ███████░░░ 70%        ║
+║  🤝 AI Ethics Rating: ████████░░ 80%         ║
+╚═══════════════════════════════════════════════╝
 ```
+
+**Latest Achievement:** 🌟 "Early AI Explorer"
+
+**Active Quests:**
+1. 🔬 "Neural Network Pioneer" - Design a breakthrough AI architecture
+2. 🛡️ "Ethics Guardian" - Maintain high ethical standards in AI development
+3. 📱 "Deploy & Scale" - Successfully deploy an AI system to production
+
+**Rewards:**
+- 🏅 Custom badges on your profile
+- 🌟 Special achievements
+- 📈 Higher GitHub stats visibility
+- 🎨 Unique ASCII art unlocks
 
 </details>
 
