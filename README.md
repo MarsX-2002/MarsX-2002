@@ -75,6 +75,60 @@ Sophisticated computer vision system combining multiple AI models for real-time 
 
 </div>
 
+### 🎮 2D AI Adventure
+<details>
+<summary>Click to Play 2D Game!</summary>
+
+```ascii
+╔════════════════ AI WORLD ═══════════════╗
+║ ⭐️ Level 1: The Silicon Valley Quest    ║
+╠══════════════════════════════════════════╣
+║     🏔️  🏔️  🏔️  🏔️  🏔️  🏔️  🏔️  🏔️     ║
+║ 🌲  ⬜  ⬜  ⬜  ⬜  ⬜  ⬜  🏰  🌲 ║
+║ 🌲  ⬜  🤖  ⬜  ⬜  ⬜  ⬜  ⬜  🌲 ║
+║ 🌲  ⬜  ⬜  ⬜  📦  ⬜  💻  ⬜  🌲 ║
+║ 🌲  ⬜  ⬜  🔥  ⬜  ⬜  ⬜  ⬜  🌲 ║
+║ 🌲  🏢  ⬜  ⬜  ⬜  ⬜  ⬜  ⬜  🌲 ║
+║     🌲  🌲  🌲  🌲  🌲  🌲  🌲      ║
+╠══════════════════════════════════════════╣
+║  🤖 = You   🏰 = Goal   💻 = Power-up   ║
+║  📦 = AI Model   🔥 = Bug   🏢 = Start  ║
+╠══════════════════════════════════════════╣
+║ Controls (comment in Issues):            ║
+║ ⬆️: up  |  ⬇️: down  |  ⬅️: left  |  ➡️: right ║
+╚══════════════════════════════════════════╝
+```
+
+**How to Play:**
+1. Create a new issue titled "2D Game: Move [direction]"
+2. Comment with your move: ⬆️, ⬇️, ⬅️, or ➡️
+3. I'll update the game state in response!
+
+**Mission:** Guide your AI bot (🤖) from the Start (🏢) to the Goal (🏰)!
+
+**Rules:**
+- Collect AI Models (📦) to gain points
+- Get Power-ups (💻) for special abilities
+- Avoid Bugs (🔥) that decrease health
+- Reach the Goal (🏰) to complete the level
+
+**Current Stats:**
+```ascii
+╔═══════════════════════════╗
+║ Health: ❤️❤️❤️             ║
+║ Score: 0                  ║
+║ Power-ups: 0             ║
+║ AI Models: 0/3           ║
+╚═══════════════════════════╝
+```
+
+**Special Moves:**
+- 🔄 Collect 2 AI Models to unlock "Debug Mode"
+- ⚡ Get a Power-up to enable "Jump" ability
+- 🛡️ Complete level with all AI Models for bonus points!
+
+</details>
+
 ### 🎮 Mini Game: AI Quest
 <details>
 <summary>Click to Play!</summary>
