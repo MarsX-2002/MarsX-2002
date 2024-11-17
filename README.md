@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mars
+# 👋 Hi, I'm Mikey
 
 ## 🚀 AI Engineer & Startup Founder
 
