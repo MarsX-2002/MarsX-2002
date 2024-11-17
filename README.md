@@ -75,111 +75,35 @@ Sophisticated computer vision system combining multiple AI models for real-time 
 
 </div>
 
-### 🎮 2D AI Adventure
+### 🐍 Contribution Snake
 <details>
-<summary>Click to Play 2D Game!</summary>
+<summary>Click to Play Snake!</summary>
 
 ```ascii
-╔════════════════ AI WORLD ═══════════════╗
-║ ⭐️ Level 1: The Silicon Valley Quest    ║
-╠══════════════════════════════════════════╣
-║     🏔️  🏔️  🏔️  🏔️  🏔️  🏔️  🏔️  🏔️     ║
-║ 🌲  ⬜  ⬜  ⬜  ⬜  ⬜  ⬜  🏰  🌲 ║
-║ 🌲  ⬜  🤖  ⬜  ⬜  ⬜  ⬜  ⬜  🌲 ║
-║ 🌲  ⬜  ⬜  ⬜  📦  ⬜  💻  ⬜  🌲 ║
-║ 🌲  ⬜  ⬜  🔥  ⬜  ⬜  ⬜  ⬜  🌲 ║
-║ 🌲  🏢  ⬜  ⬜  ⬜  ⬜  ⬜  ⬜  🌲 ║
-║     🌲  🌲  🌲  🌲  🌲  🌲  🌲      ║
-╠══════════════════════════════════════════╣
-║  🤖 = You   🏰 = Goal   💻 = Power-up   ║
-║  📦 = AI Model   🔥 = Bug   🏢 = Start  ║
-╠══════════════════════════════════════════╣
-║ Controls (comment in Issues):            ║
-║ ⬆️: up  |  ⬇️: down  |  ⬅️: left  |  ➡️: right ║
-╚══════════════════════════════════════════╝
+GitHub Contributions Snake Game
+═══════════════════════════════
+
+🟩 = Food (Contribution)
+🟦 = Snake Head
+⬜ = Empty Space
+
+╔═══════════════════════════╗
+║ Score: 0  |  Length: 3    ║
+║ High Score: 0             ║
+╚═══════════════════════════╝
+
+Controls (via Issues):
+← ↑ → ↓ (Arrow Keys)
+
+Eat the green contributions to grow!
+New contributions appear daily.
 ```
 
 **How to Play:**
-1. Create a new issue titled "2D Game: Move [direction]"
-2. Comment with your move: ⬆️, ⬇️, ⬅️, or ➡️
-3. I'll update the game state in response!
-
-**Mission:** Guide your AI bot (🤖) from the Start (🏢) to the Goal (🏰)!
-
-**Rules:**
-- Collect AI Models (📦) to gain points
-- Get Power-ups (💻) for special abilities
-- Avoid Bugs (🔥) that decrease health
-- Reach the Goal (🏰) to complete the level
-
-**Current Stats:**
-```ascii
-╔═══════════════════════════╗
-║ Health: ❤️❤️❤️             ║
-║ Score: 0                  ║
-║ Power-ups: 0             ║
-║ AI Models: 0/3           ║
-╚═══════════════════════════╝
-```
-
-**Special Moves:**
-- 🔄 Collect 2 AI Models to unlock "Debug Mode"
-- ⚡ Get a Power-up to enable "Jump" ability
-- 🛡️ Complete level with all AI Models for bonus points!
-
-</details>
-
-### 🎮 Mini Game: AI Quest
-<details>
-<summary>Click to Play!</summary>
-
-```ascii
-╔═══════════════════════════════════════════════╗
-║           🤖 AI Quest - Text Adventure        ║
-╠═══════════════════════════════════════════════╣
-║  You are an AI researcher in Silicon Valley.  ║
-║  Your mission: Advance AI technology while    ║
-║  maintaining ethical guidelines.              ║
-║                                              ║
-║  HOW TO PLAY:                                ║
-║  1. Click [New Issue] on this repository     ║
-║  2. Title: "AI Quest: [Your Choice]"         ║
-║  3. Choose your action in the comment:       ║
-║                                              ║
-║     [1] 🧪 Research new AI models            ║
-║         Risk: Medium | Reward: High          ║
-║                                              ║
-║     [2] 🌐 Deploy to production              ║
-║         Risk: High | Reward: Very High       ║
-║                                              ║
-║     [3] 📚 Study documentation               ║
-║         Risk: Low | Reward: Medium           ║
-║                                              ║
-║  Each choice affects your:                   ║
-║  - XP (Experience Points)                    ║
-║  - Research Progress                         ║
-║  - AI Ethics Rating                          ║
-╠═══════════════════════════════════════════════╣
-║  Current Stats:                              ║
-║  🎮 Level: 7  |  ⭐ XP: 156/200              ║
-║  🏆 Achievements: 3/10                       ║
-║  📊 Research Progress: ███████░░░ 70%        ║
-║  🤝 AI Ethics Rating: ████████░░ 80%         ║
-╚═══════════════════════════════════════════════╝
-```
-
-**Latest Achievement:** 🌟 "Early AI Explorer"
-
-**Active Quests:**
-1. 🔬 "Neural Network Pioneer" - Design a breakthrough AI architecture
-2. 🛡️ "Ethics Guardian" - Maintain high ethical standards in AI development
-3. 📱 "Deploy & Scale" - Successfully deploy an AI system to production
-
-**Rewards:**
-- 🏅 Custom badges on your profile
-- 🌟 Special achievements
-- 📈 Higher GitHub stats visibility
-- 🎨 Unique ASCII art unlocks
+1. Create an issue titled "Snake: [direction]"
+2. Watch your snake move through your contribution history
+3. Eat green squares (contributions) to grow
+4. Try to get the highest score!
 
 </details>
 
