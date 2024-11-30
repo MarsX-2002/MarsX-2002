@@ -56,7 +56,7 @@ Sophisticated computer vision system combining multiple AI models for real-time 
 
 ### 📫 Connect With Me
 - [Twitter/X](https://x.com/mickeyfounder)
-- [LinkedIn](https://x.com/mickeyfounder)
+- [LinkedIn](https://www.linkedin.com/in/mirjalol-shavkatov/)
 
 ### 📊 GitHub Stats
 
