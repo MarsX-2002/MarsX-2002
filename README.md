@@ -30,8 +30,6 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com?user=MarsX-2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
