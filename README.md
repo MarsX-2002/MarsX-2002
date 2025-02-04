@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Mikey – Data Analyst & ML Engineer
 
 <div align="center">
+  <!-- Hero image (replace with your own URL if available) -->
   <img src="https://raw.githubusercontent.com/MarsX-2002/MarsX-2002/master/profile-hero.png" alt="Profile Hero" width="100%" />
   <br>
-  [![Visitor Count](https://profile-counter.glitch.me/MarsX-2002/count.svg)](https://github.com/MarsX-2002)
+  <!-- Visitor Badge using an absolute URL -->
+  [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MarsX-2002)](https://github.com/MarsX-2002)
   <br>
   🚀 *Transforming data into actionable insights & driving innovation with machine learning*
 </div>
@@ -27,11 +29,11 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 ### 📊 **GitHub Activity & Stats**
 
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MarsX-2002)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/MarsX-2002)
   <br>
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MarsX-2002)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/MarsX-2002)
   <br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarsX-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarsX-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -57,5 +59,7 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
+
+*Note: If any of the badges or links above do not load properly, please try disabling your ad-blocker or refreshing the page. Some external badge services may occasionally experience downtime.*
 
 *"Turning data into strategic insights and powering innovation through machine learning."* 🚀
