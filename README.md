@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Mikey – Data Analyst & ML Engineer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MarsX-2002/MarsX-2002/master/profile-hero.png" alt="Profile Hero" width="100%" />
+  <!-- Remove hero image for now -->
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarsX-2002.MarsX-2002" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MarsX-2002&color=blueviolet" alt="Profile Views" />
   
   <p>🚀 <em>Transforming data into actionable insights & driving innovation with machine learning</em></p>
 </div>
@@ -27,11 +27,11 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 ### 📊 **GitHub Activity & Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarsX-2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MarsX-2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
