@@ -20,7 +20,7 @@
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MarsX-2002)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarsX-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MarsX-2002)
 
 </div>  
