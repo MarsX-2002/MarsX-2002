@@ -5,7 +5,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=MarsX-2002&color=blueviolet" alt="Profile Views" />
   
-  <p>🚀 <em>Transforming data into actionable insights & driving innovation with machine learning</em></p>
 </div>
 
 ---
@@ -38,7 +37,6 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -66,4 +64,4 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 
 ---
 
-<p align="center"><em>"Turning data into strategic insights and powering innovation through machine learning."</em> 🚀</p>
+
