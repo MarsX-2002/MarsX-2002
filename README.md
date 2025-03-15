@@ -15,7 +15,7 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 
 <div align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" target="_blank">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" alt="Introduction to Transact-SQL" width="250" />
+    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql.png" alt="Microsoft Achievement Badge" width="250" />
   </a>
 </div>
 
