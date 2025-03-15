@@ -13,6 +13,12 @@
 
 I'm a passionate Data Analyst and Machine Learning Engineer with a knack for transforming complex data into strategic solutions. I thrive on building scalable data pipelines, crafting predictive models, and pushing the boundaries of data science to solve real-world problems.
 
+<div align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" target="_blank">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" alt="Microsoft Achievement Badge" width="250" />
+  </a>
+</div>
+
 ---
 
 ### 🔥 **Current Focus & Learning**
@@ -63,5 +69,3 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 </p>
 
 ---
-
-
