@@ -18,7 +18,11 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
     <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql.png" alt="Microsoft Achievement Badge T_SQL SELECT" width="250" />
   </a>
     <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/9XCMLJVU?sharingId=F08EACC1D441417C" target="_blank">
-    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_orderby.png" alt="Microsoft Achievement Badge T-SQL ORDER BY" width="250" />
+    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_orderby.png" alt="Microsoft Achievement Badge T-SQL Sort and Filter" width="250" />
+  </a>
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/HA349VD8?sharingId=F08EACC1D441417C" target="_blank">
+    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_joins.png" alt="Microsoft Achievement Badge T-SQL JOINs" width="250" />
   </a>
 </div>
 
