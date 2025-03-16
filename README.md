@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mikey – Data Analyst & ML Engineer
-
 <div align="center">
-  <!-- Remove hero image for now -->
+  <!-- Profile Photo -->
+  <img src="https://avatars.githubusercontent.com/u/MarsX-2002?v=4" alt="Profile Photo" width="150" style="border-radius: 50%; border: 3px solid #6a0dad;" />
   
+  <h1>👋 Hi, I'm Mikey – Data Analyst & ML Engineer</h1>
+
   <img src="https://komarev.com/ghpvc/?username=MarsX-2002&color=blueviolet" alt="Profile Views" />
-  
 </div>
 
 ---
@@ -13,17 +13,22 @@
 
 I'm a passionate Data Analyst and Machine Learning Engineer with a knack for transforming complex data into strategic solutions. I thrive on building scalable data pipelines, crafting predictive models, and pushing the boundaries of data science to solve real-world problems.
 
-<div align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" target="_blank">
-    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql.png" alt="Microsoft Achievement Badge T_SQL SELECT" width="250" />
-  </a>
-    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/9XCMLJVU?sharingId=F08EACC1D441417C" target="_blank">
-    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_orderby.png" alt="Microsoft Achievement Badge T-SQL Sort and Filter" width="250" />
-  </a>
+---
+
+### 🏆 **Microsoft Certificates**
+
+<div align="center" style="width: 100%; overflow: hidden;">
+  <div style="display: flex; justify-content: center; gap: 10px; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" target="_blank" style="scroll-snap-align: center;">
+      <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql.png" alt="Microsoft Achievement Badge T_SQL SELECT" width="250" />
     </a>
-    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/HA349VD8?sharingId=F08EACC1D441417C" target="_blank">
-    <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_joins.png" alt="Microsoft Achievement Badge T-SQL JOINs" width="250" />
-  </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/9XCMLJVU?sharingId=F08EACC1D441417C" target="_blank" style="scroll-snap-align: center;">
+      <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_orderby.png" alt="Microsoft Achievement Badge T-SQL Sort and Filter" width="250" />
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/HA349VD8?sharingId=F08EACC1D441417C" target="_blank" style="scroll-snap-align: center;">
+      <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_joins.png" alt="Microsoft Achievement Badge T-SQL JOINs" width="250" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -32,7 +37,7 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 
 - **Advanced ML & AI Techniques:** Deep Learning, Reinforcement Learning, & Explainable AI  
 - **Scalable Data Engineering:** ETL Pipelines, Data Warehousing, & MLOps  
-- **Business Analytics & Quantitative Research:** Data-Driven Decision Making
+- **Business Analytics & Quantitative Research:** Data-Driven Decision Making  
 
 ---
 
