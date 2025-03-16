@@ -18,19 +18,28 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 
 ### 🏆 **Microsoft Certificates**
 
-<div align="center" style="width: 100%; overflow: hidden;">
-  <div style="display: flex; justify-content: center; gap: 10px; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
-    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" target="_blank" style="scroll-snap-align: center;">
+<div align="center">
+  <div style="
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 10px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  ">
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/YQXD24ZR?sharingId=F08EACC1D441417C" target="_blank" style="flex: 0 0 auto; scroll-snap-align: center;">
       <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql.png" alt="Microsoft Achievement Badge T_SQL SELECT" width="250" />
     </a>
-    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/9XCMLJVU?sharingId=F08EACC1D441417C" target="_blank" style="scroll-snap-align: center;">
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/9XCMLJVU?sharingId=F08EACC1D441417C" target="_blank" style="flex: 0 0 auto; scroll-snap-align: center;">
       <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_orderby.png" alt="Microsoft Achievement Badge T-SQL Sort and Filter" width="250" />
     </a>
-    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/HA349VD8?sharingId=F08EACC1D441417C" target="_blank" style="scroll-snap-align: center;">
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/HA349VD8?sharingId=F08EACC1D441417C" target="_blank" style="flex: 0 0 auto; scroll-snap-align: center;">
       <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_joins.png" alt="Microsoft Achievement Badge T-SQL JOINs" width="250" />
     </a>
   </div>
 </div>
+
 
 ---
 
