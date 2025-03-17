@@ -28,6 +28,9 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
   ">
+    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/FVNGSYWX?sharingId=F08EACC1D441417C" target="_blank" style="flex: 0 0 auto; scroll-snap-align: center;">
+      <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_groupby.png" alt="Microsoft Achievement Badge T-SQL Built-in functions and GROUP BY" width="250" />
+    </a>
     <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/HA3D4B68?sharingId=F08EACC1D441417C" target="_blank" style="flex: 0 0 auto; scroll-snap-align: center;">
       <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql_subquery.png" alt="Microsoft Achievement Badge T-SQL Subquery" width="250" />
     </a>
