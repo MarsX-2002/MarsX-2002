@@ -39,7 +39,7 @@ I'm a passionate Data Analyst and Machine Learning Engineer with a knack for tra
 ---
 
 ### 🔥 **Current Focus & Learning**
-[ai generated]
+
 - **Advanced ML & AI Techniques:** Deep Learning, Reinforcement Learning, & Explainable AI  
 - **Scalable Data Engineering:** ETL Pipelines, Data Warehousing, & MLOps  
 - **Business Analytics & Quantitative Research:** Data-Driven Decision Making  
