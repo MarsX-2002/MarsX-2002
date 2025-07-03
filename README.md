@@ -12,7 +12,7 @@
 
 ### 📌 **About Me**
 [ai generated]
-I'm a passionate Data Analyst and Machine Learning Engineer with a knack for transforming complex data into strategic solutions. I thrive on building scalable data pipelines, crafting predictive models, and pushing the boundaries of data science to solve real-world problems.
+I'm a passionate Data Analyst and Machine Learning Engineer with a knack for transforming complex data into strategic solutions. I thrive on building scalable data pipelines, crafting predictive models, and pushing the boundaries of data science to solve real-world problems
 
 ---
 
