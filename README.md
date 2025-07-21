@@ -3,7 +3,7 @@
   <img src="https://github.com/MarsX-2002.png" alt="Profile Photo" width="150" style="border-radius: 50%; border: 3px solid #6a0dad;" />
 
   
-  <h1>👋 Hi, I'm Mikey – Data Analyst & ML Engineer</h1>
+  <h1>👋 Hi, I'm Mikey – Data Scientist & AI Engineer</h1>
 
   <img src="https://komarev.com/ghpvc/?username=MarsX-2002&color=blueviolet" alt="Profile Views" />
 </div>
