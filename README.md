@@ -19,7 +19,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=dark" />
+<a href="https://github.com/OWNER/REPO_NAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWNER&repo=REPO_NAME&theme=dark" />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MarsX-2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
