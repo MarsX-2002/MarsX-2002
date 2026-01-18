@@ -1,89 +1,27 @@
-<div align="center">
-  <!-- Profile Photo -->
-  <img src="https://github.com/MarsX-2002.png" alt="Profile Photo" width="150" style="border-radius: 50%; border: 3px solid #6a0dad;" />
+# 💫 About Me:
+### About Me :<br><br>🔭 I’m currently working on **physical AI**<br>👯 I’m looking to collaborate on **building models for physical AI**<br>🤝 I’m looking for help with **optimizing data processing pipeline**<br>🌱 I’m currently learning **Reinforcement Learning**<br>💬 Ask me about **ML model training, physics**<br>⚡ Fun fact **i love hackathons (x27)**
 
-  
-  <h1>👋 Hi, I'm Mikey – Data Scientist & AI Engineer</h1>
 
-  <img src="https://komarev.com/ghpvc/?username=MarsX-2002&color=blueviolet" alt="Profile Views" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mirjalol-shavkatov/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirjalol0331@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarsX-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MarsX-2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsX-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📌 **About Me**
-[ai generated]
-I'm a passionate Data Analyst and Machine Learning Engineer with a knack for transforming complex data into strategic solutions. I thrive on building scalable data pipelines, crafting predictive models, and pushing the boundaries of data science to solve real-world problems.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarsX-2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏆 **Microsoft Certificates**
-
-<div align="center">
-  <div style="
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-    padding: 10px;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  ">
-    <a href="https://learn.microsoft.com/api/achievements/share/en-gb/MirjalolShavkatov-8998/9X98PYPU?sharingId=F08EACC1D441417C" target="_blank" style="flex: 0 0 auto; scroll-snap-align: center;">
-      <img src="https://raw.githubusercontent.com/MarsX-2002/assets/main/microsoft_learn_tsql.png" alt="Microsoft Achievement Badge T-SQL Built-in functions and GROUP BY" width="250" />
-    </a>
-    </a>
-  </div>
-</div>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MarsX-2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MarsX-2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔥 **Current Focus & Learning**
-
-- **Advanced ML & AI Techniques:** Deep Learning, Reinforcement Learning, & Explainable AI  
-- **Scalable Data Engineering:** ETL Pipelines, Data Warehousing, & MLOps  
-- **Business Analytics & Quantitative Research:** Data-Driven Decision Making  
-
----
-
-### 📊 **GitHub Activity & Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarsX-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarsX-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 🛠️ **Technologies & Tools**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
----
-
-### 🌐 **Connect With Me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mirjalol-shavkatov/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/mickeyfounder">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
